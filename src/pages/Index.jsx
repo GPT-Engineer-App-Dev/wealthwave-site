@@ -1,4 +1,4 @@
-import { Container, Box, Heading, Text, VStack, HStack, Image, Link, Divider } from "@chakra-ui/react";
+import { Container, Box, Heading, Text, VStack, HStack, Link, Divider } from "@chakra-ui/react";
 import { FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 
 const Index = () => {
